@@ -12,5 +12,5 @@ Java, Spring Boot, React, Docker, and Kubernetes.
 ## Tech Stack
 - Frontend: React
 - Backend: Java, Spring Boot
-- Database: PostgreSQL
+- Database: MySQL
 - DevOps: Docker, Kubernetes
